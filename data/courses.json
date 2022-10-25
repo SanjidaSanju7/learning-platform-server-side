@@ -3,48 +3,72 @@
         "id": "01",
         "name": "Web Development with HTML and CSS for Beginners",
         "publisher": "Zenva",
-        "description": "Are you a web-design beginner with no prior knowledge of web development? Are you interested in starting a new chapter as a web developer? Then your web development journey today with this academia online course! We will help you master the foundations of HTML and CSS, which are the two powerful programming languages every aspiring web developer needs to know. This course will take you through everything you need to know to get your plans on track."
+        "total_view": 400,
+        "rating": 5,
+        "description": "Are you a web-design beginner with no prior knowledge of web development? Are you interested in starting a new chapter as a web developer? Then your web development journey today with this academia online course! We will help you master the foundations of HTML and CSS, which are the two powerful programming languages every aspiring web developer needs to know. This course will take you through everything you need to know to get your plans on track.",
+        "image": "https://www.forbes.com/advisor/wp-content/uploads/2022/06/computer_programming.jpeg.jpg"
     },
     {
         "id": "02",
         "name": "Graphic Design",
         "publisher": "BCcampus openED",
-        "description": "This course teaches you the art of graphic design from the ground up and suits novices and those looking to polish their creative skills. We explore the history of graphic design and examine its theory, practices and principles. We then show you how text and images can be effectively used to create an impact and convey a message to a specific audience. These tools can make you a successful graphic designer so sign up to gain a valuable new skill."
+        "total_view": 880,
+        "rating": 4.5,
+        "description": "This course teaches you the art of graphic design from the ground up and suits novices and those looking to polish their creative skills. We explore the history of graphic design and examine its theory, practices and principles. We then show you how text and images can be effectively used to create an impact and convey a message to a specific audience. These tools can make you a successful graphic designer so sign up to gain a valuable new skill.",
+        "image": "https://www.freelogoservices.com/blog/wp-content/uploads/digital-graphic-designer.jpg"
     },
     {
         "id": "03",
         "name": "Adobe Photoshop for Beginners",
         "publisher": "Lucrative skills",
-        "description": "This online course will teach you the fundamentals of Adobe Photoshop. You will learn how to use Photoshop panels, libraries and presets. You will also study the various classes of Photoshop tools and each of their functionalities. The course will explain the simple steps involved in developing an animation project and acquiring all the basic skills to create, modify and animate projects on your own in little to no time. Enrol today."
+        "total_view": 460,
+        "rating": 4,
+        "description": "This online course will teach you the fundamentals of Adobe Photoshop. You will learn how to use Photoshop panels, libraries and presets. You will also study the various classes of Photoshop tools and each of their functionalities. The course will explain the simple steps involved in developing an animation project and acquiring all the basic skills to create, modify and animate projects on your own in little to no time. Enrol today.",
+        "image": "https://54d422bfce946a1b00b9-db204bc33373148745d05982db84d1c6.ssl.cf1.rackcdn.com/1558423857758graphicdesign.png"
     },
     {
         "id": "04",
         "name": "Python for Beginners",
         "publisher": "Merul Dhiman",
-        "description": "From automating simple tasks and routines to making complex projects and programs, research indicates that Python is the most versatile programming language in existence that you can rely on to solve various problems. This online course will equip you with the skills needed to become proficient with coding in Python and apply the code in different projects and prepare you for more advanced programming in no time."
+        "total_view": 900,
+        "rating": 5,
+        "description": "From automating simple tasks and routines to making complex projects and programs, research indicates that Python is the most versatile programming language in existence that you can rely on to solve various problems. This online course will equip you with the skills needed to become proficient with coding in Python and apply the code in different projects and prepare you for more advanced programming in no time.",
+        "image": "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2021/05/python_shutterstock_Funtap.jpg"
     },
     {
         "id": "05",
         "name": "Web Design with HTML",
         "publisher": "Sonar Systems",
-        "description": "Websites play an important role in helping us access information on the internet. This short, academia online course covers the basic principles and elements of HTML, the most widely used programming language for designing websites. You will learn about using tags and adding elements like tables and media. We’ll also cover using CSS and JavaScript to make a website responsive, so you can be on the way to building your first functional website."
+        "total_view": 1100,
+        "rating": 4.5,
+        "description": "Websites play an important role in helping us access information on the internet. This short, academia online course covers the basic principles and elements of HTML, the most widely used programming language for designing websites. You will learn about using tags and adding elements like tables and media. We’ll also cover using CSS and JavaScript to make a website responsive, so you can be on the way to building your first functional website.",
+        "image": "https://i0.wp.com/thejengugroup.com/wp-content/uploads/2021/08/Web-Design-and-Development-Thumbnail-2.jpg?fit=1024%2C640&ssl=1"
     },
     {
         "id": "06",
         "name": "C Programming - Introduction",
         "publisher": "Advance Learning",
-        "description": "This online basic course on C programming language will teach you the basics of the C programming language, the importance of understanding binary and give you a brief introduction to hexadecimal. You will learn about how programming works, the structure that defines all programs and how to start writing your first program. Enroll this online course today if you want to learn programming fundamentals!"
+        "total_view": 732,
+        "rating": 4,
+        "description": "This online basic course on C programming language will teach you the basics of the C programming language, the importance of understanding binary and give you a brief introduction to hexadecimal. You will learn about how programming works, the structure that defines all programs and how to start writing your first program. Enroll this online course today if you want to learn programming fundamentals!",
+        "image": "https://ksg.keltron.in/common/renderImage?fileName=22MAR2019%2F1553241352.jpg"
     },
     {
         "id": "07",
         "name": "Java for Beginners",
+        "total_view": 340,
+        "rating": 4.5,
         "publisher": "ClayDesk E-Learning",
-        "description": "This online course teaches you basic Java coding skills and provides the tools required to start programming. We explore Java’s basic syntax, data types and operators and demonstrate how to use them. You will come to understand conditionals and control flow and how to build lists of data with Java arrays and ArrayLists. Lastly, we cover object-oriented programming (OOP) and ‘inheritance’ in Java, which improve your program’s efficiency."
+        "description": "This online course teaches you basic Java coding skills and provides the tools required to start programming. We explore Java’s basic syntax, data types and operators and demonstrate how to use them. You will come to understand conditionals and control flow and how to build lists of data with Java arrays and ArrayLists. Lastly, we cover object-oriented programming (OOP) and ‘inheritance’ in Java, which improve your program’s efficiency.",
+        "image": "https://www.dewsolutions.in/wp-content/uploads/2021/11/Java-Programming-Language.png"
     },
     {
         "id": "08",
         "name": "Responsive Web Design with Bootstrap 5",
         "publisher": "Sonar Systems",
-        "description": "Millions of people visit websites daily for work, entertainment or a myriad of other reasons. Responsive web design makes websites enjoyable across devices and screen sizes, improving user engagement, user experience and search rankings. This short course will teach you all you need to know to start creating responsive websites with Bootstrap 5, a front-end web design framework that simplifies the process of creating responsive websites."
+        "total_view": 1107,
+        "rating": 5,
+        "description": "Millions of people visit websites daily for work, entertainment or a myriad of other reasons. Responsive web design makes websites enjoyable across devices and screen sizes, improving user engagement, user experience and search rankings. This short course will teach you all you need to know to start creating responsive websites with Bootstrap 5, a front-end web design framework that simplifies the process of creating responsive websites.",
+        "image": "https://labs.tadigital.com/wp-content/uploads/2020/03/MicrosoftTeams-image-1096x617.png"
     }
 ]
